@@ -1,1 +1,1 @@
-I have just started
+This project helped me to remain HTML5 and CSS codes. It was a little bit hard. And i noticed i am not good enough to create branchs. Unfortunately i am still not to able to use branchs and i will do more exercises. 
